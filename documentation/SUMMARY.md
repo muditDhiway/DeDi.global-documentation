@@ -18,3 +18,22 @@
 ## DeDi.global - Developers
 
 * [Developer documentation](dedi.global-developers/developer-documentation.md)
+* [DeDi 101](dedi.global-developers/dedi-101.md)
+* [Standard APIs](dedi.global-developers/standard-apis/README.md)
+  * [Lookup API](dedi.global-developers/standard-apis/lookup-api.md)
+  * [Query API](dedi.global-developers/standard-apis/query-api.md)
+  * [Version API](dedi.global-developers/standard-apis/version-api.md)
+* [Quickstart](dedi.global-developers/quickstart/README.md)
+  * [Setup](dedi.global-developers/quickstart/setup.md)
+  * [Registry Creation and Management Guide](dedi.global-developers/quickstart/registry-creation-and-management-guide.md)
+* [Domain Verification - The bedrock of trust in DeDi](dedi.global-developers/domain-verification-the-bedrock-of-trust-in-dedi.md)
+* [Schema design](dedi.global-developers/schema-design.md)
+* [Bulk Upload](dedi.global-developers/bulk-upload.md)
+* [Delegation Guide](dedi.global-developers/delegation-guide.md)
+* [State management](dedi.global-developers/state-management.md)
+* [Watch Feature](dedi.global-developers/watch-feature.md)
+
+## Miscellaneous
+
+* [FAQs](miscellaneous/faqs.md)
+* [Glossary](miscellaneous/glossary.md)

@@ -4,11 +4,11 @@ The DeDi Protocol defines a minimal set of standard APIs that make universal dis
 
 Currently, three API types are defined:
 
-#### 1. Lookup API
+#### [1. Lookup API](./#id-1.-lookup-api)
 
-#### 2. Query API
+#### [2. Query API](./#id-2.-query-api)
 
-#### 3. Version API
+#### [3. Version API](./#id-3.-version-api)
 
 Each serves a distinct role in navigating and retrieving hierarchical data.
 

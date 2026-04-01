@@ -1338,13 +1338,16 @@ paths:
                 properties:
                   message:
                     type: string
-                    examples:
-                      namespace_not_found:
-                        value: "Namespace not found"
-                      not_verified:
-                        value: "Namespace is not verified"
-                      domain_not_found:
-                        value: "Domain not found for this namespace"
+              examples:
+                namespace_not_found:
+                  value:
+                    message: "Namespace not found"
+                not_verified:
+                  value:
+                    message: "Namespace is not verified"
+                domain_not_found:
+                  value:
+                    message: "Domain not found for this namespace"
         '500':
           description: Internal server error
           content:
